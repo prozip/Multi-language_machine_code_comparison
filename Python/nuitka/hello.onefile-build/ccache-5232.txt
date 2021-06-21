@@ -1,0 +1,70 @@
+[2021-06-13T17:29:05.407440 15548] === CCACHE 3.7.12 STARTED =========================================
+[2021-06-13T17:29:05.407440 15548] Config: (default) base_dir = 
+[2021-06-13T17:29:05.407440 15548] Config: (environment) cache_dir = C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-06-13T17:29:05.407440 15548] Config: (default) cache_dir_levels = 2
+[2021-06-13T17:29:05.407440 15548] Config: (default) compiler = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) compiler_check = mtime
+[2021-06-13T17:29:05.407440 15548] Config: (default) compression = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) compression_level = 6
+[2021-06-13T17:29:05.407440 15548] Config: (default) cpp_extension = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) debug = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) depend_mode = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) direct_mode = true
+[2021-06-13T17:29:05.407440 15548] Config: (default) disable = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) extra_files_to_hash = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) hard_link = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) hash_dir = true
+[2021-06-13T17:29:05.407440 15548] Config: (default) ignore_headers_in_manifest = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) keep_comments_cpp = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) limit_multiple = 0.8
+[2021-06-13T17:29:05.407440 15548] Config: (environment) log_file = C:\Users\LENOVO\Desktop\test\python\nuitka\hello.onefile-build\ccache-5232.txt
+[2021-06-13T17:29:05.407440 15548] Config: (default) max_files = 0
+[2021-06-13T17:29:05.407440 15548] Config: (C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-06-13T17:29:05.407440 15548] Config: (default) path = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) pch_external_checksum = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) prefix_command = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) prefix_command_cpp = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) read_only = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) read_only_direct = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) recache = false
+[2021-06-13T17:29:05.407440 15548] Config: (default) run_second_cpp = true
+[2021-06-13T17:29:05.407440 15548] Config: (default) sloppiness = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) stats = true
+[2021-06-13T17:29:05.407440 15548] Config: (default) temporary_dir = 
+[2021-06-13T17:29:05.407440 15548] Config: (default) umask = 
+[2021-06-13T17:29:05.407440 15548] Command line: C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\SDK\mingw64\mingw64\bin\gcc.exe -o static_src\WindowsOnefile.o -c -std=c11 -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -I. -IC:\SDK\Python37\lib\SITE-P~1\nuitka\build\include -IC:\SDK\Python37\lib\SITE-P~1\nuitka\build\static_src -IC:\SDK\Python37\lib\SITE-P~1\nuitka\build\inline_copy\zstd -I. -IC:\SDK\Python37\lib\SITE-P~1\nuitka\build\include static_src\WindowsOnefile.c
+[2021-06-13T17:29:05.407440 15548] Hostname: LAPTOP-A6949P70
+[2021-06-13T17:29:05.407440 15548] Working directory: C:\Users\LENOVO\Desktop\test\python\nuitka\hello.onefile-build
+[2021-06-13T17:29:05.407440 15548] Source file: static_src\WindowsOnefile.c
+[2021-06-13T17:29:05.407440 15548] Object file: static_src\WindowsOnefile.o
+[2021-06-13T17:29:05.411441 15548] Trying direct lookup
+[2021-06-13T17:29:05.411441 15548] Looking for object file hash in C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/1/f86c18eade2bafa8b10e390001eee4-13232.manifest
+[2021-06-13T17:29:05.411441 15548] No such manifest file
+[2021-06-13T17:29:05.411441 15548] Did not find object file hash in manifest
+[2021-06-13T17:29:05.411441 15548] Running preprocessor
+[2021-06-13T17:29:06.242984 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.242984 15548] Disabling direct mode
+[2021-06-13T17:29:06.242984 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.242984 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.246983 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.246983 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.250983 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.250983 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.250983 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.250983 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.426935 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.426935 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Include file ./onefile_definitions.h too new
+[2021-06-13T17:29:06.430934 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Include file static_src\\WindowsOnefile.c too new
+[2021-06-13T17:29:06.430934 15548] Got object file hash from preprocessor
+[2021-06-13T17:29:06.430934 15548] Copying C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/948d26fc2ac91959c240b05558a83f-4624281.o to static_src\WindowsOnefile.o (uncompressed)
+[2021-06-13T17:29:06.430934 15548] Created from cache: C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/948d26fc2ac91959c240b05558a83f-4624281.o -> static_src\WindowsOnefile.o
+[2021-06-13T17:29:06.434935 15548] Succeeded getting cached result
+[2021-06-13T17:29:06.434935 15548] Result: cache hit (preprocessed)
+[2021-06-13T17:29:06.434935 15548] Acquired lock C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-06-13T17:29:06.434935 15548] Releasing lock C:\Users\LENOVO\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
